@@ -73,12 +73,10 @@
 
         // ==================== MAIN LAYER (Onishi) ====================
         //
-        // Cornix 3x6+2inner+3thumb layout
-        //
-        //  LC(T)  Q  L  U  ,  .        F  W  R  Y  P  CTRL
+        //  LG(W)  Q  L  U  ,  .        F  W  R  Y  P  LC(T)
         //  ESC    E  I  A  O  -        K  T  N  S  H  -
-        //  LS/L   Z  X  C  V  ;  S/T  R/CT  G  D  M  J  B  RS/R
-        //  ---  ---  ---  L2/G  R/SPC  LWR      BSP  R/ENT  L1/H  ---  ---  ---
+        //  LS/L   Z  X  C  V  ;  MUTE  MB3  G  D  M  J  B  RS/R
+        //  L2/G  DN  --  LS  R/SPC  L/TAB    BSP  R/ENT  CTRL  --  UP  L1/H
 
         main_layer {
             display-name = "Main";
