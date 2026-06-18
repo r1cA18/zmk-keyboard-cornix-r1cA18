@@ -87,7 +87,7 @@
                 <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
 
             bindings = <
-&kp LC(T)              &kp Q     &kp L  &kp U            &kp COMMA            &kp DOT                                        &kp F     &kp W            &kp R  &kp Y  &kp P                         &mo CONTROL
+&kp LG(W)              &kp Q     &kp L  &kp U            &kp COMMA            &kp DOT                                        &kp F     &kp W            &kp R  &kp Y  &kp P                         &kp LC(T)
 &kp ESC                &kp E     &kp I  &HRM LEFT_ALT A  &HRM LS(LEFT_GUI) O  &HRM LEFT_CONTROL MINUS                        &kp K     &kp T            &kp N  &kp S  &HRM RS(RA(RC(RIGHT_GUI))) H  &kp MINUS
 &HRM LEFT_SHIFT LEFT   &kp Z     &kp X  &kp C            &kp V                &kp SEMI                 &kp K_MUTE  &mkp MB3  &kp G     &kp D            &kp M  &kp J  &kp B                         &HRM RIGHT_SHIFT RIGHT
 &SandS LEFT_GUI LANG2  &kp DOWN  &none  &kp LEFT_SHIFT   &lt RAISE SPACE      &lt LOWER TAB                                  &kp BSPC  &lt RAISE ENTER  &mo 3  &none  &kp UP                        &SandS RA(RIGHT_GUI) LANG1
